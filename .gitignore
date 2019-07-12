@@ -1,2 +1,9 @@
 *.swp
 *.deb
+*.beam
+*_test
+*.elixir
+*.elixir_scm
+*.protocols
+*.xref
+*.app
